@@ -39,7 +39,6 @@ Here's the [Amazon Link](https://www.amazon.es/ASUS-TUF-Gaming-F15-FX506LHB/dp/B
 # Working Status
  - ### **Fully Working**
     - Built-In Display
-
     - Jack 3.5mm, Speakers & Microphone
     - DC-IN & Battery
     - NVMe & HDD
