@@ -122,8 +122,8 @@ Here's the [Amazon Link](https://www.amazon.es/ASUS-TUF-Gaming-F15-FX506LHB/dp/B
 <details open>
 <summary><h3>BIOS Settings</h3></summary>
  
-- Make Sure you have [Latest BIOS v323](https://www.asus.com/supportonly/FX504GE/HelpDesk_BIOS/)
-- After Updating the BIOS, you just need to **DISABLE** `Secure Boot`, so don't worry about this part.
+- Make Sure you have [Latest BIOS v311]([https://www.asus.com/supportonly/FX504GE/HelpDesk_BIOS/](https://www.asus.com/supportonly/fx506lhb/helpdesk_bios/))
+- After Updating the BIOS, you just need to **DISABLE** `Secure Boot`, and you are good to go.
 ---
  
 </details>
