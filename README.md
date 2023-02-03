@@ -108,7 +108,7 @@ Here's the [Amazon Link](https://www.amazon.es/ASUS-TUF-Gaming-F15-FX506LHB/dp/B
 
 ### From Windows:
 
-[**Link to Dortania's Guide**](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html)
+[**Link to Dortania's Guide**](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/windows-install.html#downloading-macos)
 
 ### From Linux:
 
